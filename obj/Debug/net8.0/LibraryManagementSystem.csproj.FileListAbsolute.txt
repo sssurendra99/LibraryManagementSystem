@@ -1,0 +1,15 @@
+/home/warrior/Development/cshaprLearning/LibraryManagementSystem/bin/Debug/net8.0/LibraryManagementSystem
+/home/warrior/Development/cshaprLearning/LibraryManagementSystem/bin/Debug/net8.0/LibraryManagementSystem.deps.json
+/home/warrior/Development/cshaprLearning/LibraryManagementSystem/bin/Debug/net8.0/LibraryManagementSystem.runtimeconfig.json
+/home/warrior/Development/cshaprLearning/LibraryManagementSystem/bin/Debug/net8.0/LibraryManagementSystem.dll
+/home/warrior/Development/cshaprLearning/LibraryManagementSystem/bin/Debug/net8.0/LibraryManagementSystem.pdb
+/home/warrior/Development/cshaprLearning/LibraryManagementSystem/obj/Debug/net8.0/LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/warrior/Development/cshaprLearning/LibraryManagementSystem/obj/Debug/net8.0/LibraryManagementSystem.AssemblyInfoInputs.cache
+/home/warrior/Development/cshaprLearning/LibraryManagementSystem/obj/Debug/net8.0/LibraryManagementSystem.AssemblyInfo.cs
+/home/warrior/Development/cshaprLearning/LibraryManagementSystem/obj/Debug/net8.0/LibraryManagementSystem.csproj.CoreCompileInputs.cache
+/home/warrior/Development/cshaprLearning/LibraryManagementSystem/obj/Debug/net8.0/LibraryManagementSystem.sourcelink.json
+/home/warrior/Development/cshaprLearning/LibraryManagementSystem/obj/Debug/net8.0/LibraryManagementSystem.dll
+/home/warrior/Development/cshaprLearning/LibraryManagementSystem/obj/Debug/net8.0/refint/LibraryManagementSystem.dll
+/home/warrior/Development/cshaprLearning/LibraryManagementSystem/obj/Debug/net8.0/LibraryManagementSystem.pdb
+/home/warrior/Development/cshaprLearning/LibraryManagementSystem/obj/Debug/net8.0/LibraryManagementSystem.genruntimeconfig.cache
+/home/warrior/Development/cshaprLearning/LibraryManagementSystem/obj/Debug/net8.0/ref/LibraryManagementSystem.dll
